@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "type": "grammar",
+    "question": "I ___ a student.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "correct": "am",
+    "points": 1
+  },
+  {
+    "id": 2,
+    "type": "grammar",
+    "question": "She ___ a cat.",
+    "options": [
+      "have",
+      "has",
+      "had",
+      "having"
+    ],
+    "correct": "has",
+    "points": 1
+  },
+  {
+    "id": 3,
+    "type": "grammar",
+    "question": "They ___ at home.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "correct": "are",
+    "points": 1
+  },
+  {
+    "id": 4,
+    "type": "reading",
+    "question": "Read: 'My brother works in a hospital. He helps sick people every day.' What is his job?",
+    "options": [
+      "Teacher",
+      "Doctor or nurse",
+      "Driver",
+      "Chef"
+    ],
+    "correct": "Doctor or nurse",
+    "points": 1
+  },
+  {
+    "id": 5,
+    "type": "writing",
+    "question": "Which sentence is correct?",
+    "options": [
+      "I name is John.",
+      "My name is John.",
+      "Name my is John.",
+      "Is my name John."
+    ],
+    "correct": "My name is John.",
+    "points": 1
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "type": "listening",
+    "question": "You hear: 'Excuse me, where is the nearest bus stop?' What does the person want?",
+    "options": [
+      "To buy a bus ticket",
+      "To find directions",
+      "To know the bus schedule",
+      "To call a taxi"
+    ],
+    "correct": "To find directions",
+    "points": 1
+  },
+  {
+    "id": 7,
+    "type": "grammar",
+    "question": "There ___ a book on the table.",
+    "options": [
+      "are",
+      "is",
+      "am",
+      "be"
+    ],
+    "correct": "is",
+    "points": 1
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "type": "reading",
+    "question": "Read: 'It is Sunday morning. The streets are quiet and most shops are closed.' What day is it?",
+    "options": [
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Friday"
+    ],
+    "correct": "Sunday",
+    "points": 1
+  },
+  {
+    "id": 9,
+    "type": "grammar",
+    "question": "What ___ your name?",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "correct": "is",
+    "points": 1
+  },
+  {
+    "id": 10,
+    "type": "writing",
+    "question": "Which sentence is correct?",
+    "options": [
+      "She don't like cats.",
+      "She doesn't likes cats.",
+      "She doesn't like cats.",
+      "She not like cats."
+    ],
+    "correct": "She doesn't like cats.",
+    "points": 1
+  },
+  {
+    "id": 11,
+    "type": "grammar",
+    "question": "She ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "went"
+    ],
+    "correct": "goes",
+    "points": 2
+  },
+  {
+    "id": 12,
+    "type": "grammar",
+    "question": "We ___ TV when the phone rang.",
+    "options": [
+      "watched",
+      "were watching",
+      "watch",
+      "are watching"
+    ],
+    "correct": "were watching",
+    "points": 2
+  },
+  {
+    "id": 13,
+    "level": "A2",
+    "type": "reading",
+    "question": "Read: 'The new restaurant opened last week. It was fully booked every evening.' What does this tell us about the restaurant?",
+    "options": [
+      "It was not popular",
+      "It was very popular",
+      "It was closed most evenings",
+      "It had no reservations"
+    ],
+    "correct": "It was very popular",
+    "points": 2
+  },
+  {
+    "id": 14,
+    "type": "writing",
+    "question": "Which sentence is written correctly?",
+    "options": [
+      "Yesterday I go to the park.",
+      "Yesterday I goed to the park.",
+      "Yesterday I went to the park.",
+      "Yesterday I gone to the park."
+    ],
+    "correct": "Yesterday I went to the park.",
+    "points": 2
+  },
+  {
+    "id": 15,
+    "type": "listening",
+    "question": "You hear: 'I've been waiting for this bus for 40 minutes!' What is the speaker feeling?",
+    "options": [
+      "Happy and excited",
+      "Frustrated and impatient",
+      "Calm and relaxed",
+      "Confused and lost"
+    ],
+    "correct": "Frustrated and impatient",
+    "points": 2
+  },
+  {
+    "id": 16,
+    "type": "grammar",
+    "question": "I ___ never been to Paris.",
+    "options": [
+      "have",
+      "has",
+      "had",
+      "am"
+    ],
+    "correct": "have",
+    "points": 2
+  },
+  {
+    "id": 17,
+    "type": "grammar",
+    "question": "This is ___ apple I have ever eaten.",
+    "options": [
+      "good",
+      "better",
+      "the best",
+      "more good"
+    ],
+    "correct": "the best",
+    "points": 2
+  },
+  {
+    "id": 18,
+    "level": "A2",
+    "type": "reading",
+    "question": "Read: 'David loves cooking but hates washing up. His flatmate is the opposite.' What does David's flatmate prefer?",
+    "options": [
+      "Cooking over washing up",
+      "Washing up over cooking",
+      "Neither cooking nor washing up",
+      "Both equally"
+    ],
+    "correct": "Washing up over cooking",
+    "points": 2
+  },
+  {
+    "id": 19,
+    "type": "writing",
+    "question": "Which sentence uses 'there is / there are' correctly?",
+    "options": [
+      "There are a cat in the room.",
+      "There is two dogs outside.",
+      "There are three birds on the tree.",
+      "There is many people here."
+    ],
+    "correct": "There are three birds on the tree.",
+    "points": 2
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "type": "listening",
+    "question": "You hear: 'I'm sorry, the doctor is with another patient. Can you take a seat?' Where is this conversation happening?",
+    "options": [
+      "At a pharmacy",
+      "At a dental clinic",
+      "At a hospital or clinic",
+      "At a school"
+    ],
+    "correct": "At a hospital or clinic",
+    "points": 2
+  },
+  {
+    "id": 21,
+    "type": "grammar",
+    "question": "By the time he arrived, she ___ already left.",
+    "options": [
+      "has",
+      "had",
+      "have",
+      "was"
+    ],
+    "correct": "had",
+    "points": 3
+  },
+  {
+    "id": 22,
+    "type": "grammar",
+    "question": "If I ___ rich, I would travel the world.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "be"
+    ],
+    "correct": "were",
+    "points": 3
+  },
+  {
+    "id": 23,
+    "type": "reading",
+    "question": "Read: 'Despite the heavy rain, the football match was not cancelled.' What can we conclude?",
+    "options": [
+      "The match was cancelled due to rain.",
+      "The match took place even though it was raining.",
+      "The match was postponed.",
+      "It was not raining during the match."
+    ],
+    "correct": "The match took place even though it was raining.",
+    "points": 3
+  },
+  {
+    "id": 24,
+    "type": "writing",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "She suggested to go to the cinema.",
+      "She suggested going to the cinema.",
+      "She suggested go to the cinema.",
+      "She suggested that we going to the cinema."
+    ],
+    "correct": "She suggested going to the cinema.",
+    "points": 3
+  },
+  {
+    "id": 25,
+    "type": "listening",
+    "question": "You hear: 'I'm afraid I can't make it to the meeting tomorrow.' What does the speaker mean?",
+    "options": [
+      "They are scared of the meeting.",
+      "They cannot attend the meeting.",
+      "They will make something for the meeting.",
+      "They are arriving late."
+    ],
+    "correct": "They cannot attend the meeting.",
+    "points": 3
+  },
+  {
+    "id": 26,
+    "type": "grammar",
+    "question": "The report ___ by the manager before noon.",
+    "options": [
+      "submitted",
+      "was submitted",
+      "has submitted",
+      "submits"
+    ],
+    "correct": "was submitted",
+    "points": 3
+  },
+  {
+    "id": 27,
+    "type": "grammar",
+    "question": "He ___ for this company for ten years.",
+    "options": [
+      "works",
+      "worked",
+      "has worked",
+      "is working"
+    ],
+    "correct": "has worked",
+    "points": 3
+  },
+  {
+    "id": 28,
+    "type": "reading",
+    "question": "Read: 'The conference was well-attended despite being scheduled on a public holiday.' What is surprising about this?",
+    "options": [
+      "The conference was poorly organized.",
+      "Many people came even though it was a holiday.",
+      "The conference was cancelled.",
+      "The conference had few attendees."
+    ],
+    "correct": "Many people came even though it was a holiday.",
+    "points": 3
+  },
+  {
+    "id": 29,
+    "type": "writing",
+    "question": "Which sentence is correct?",
+    "options": [
+      "I used to playing football as a child.",
+      "I used to play football as a child.",
+      "I use to play football as a child.",
+      "I was used to play football as a child."
+    ],
+    "correct": "I used to play football as a child.",
+    "points": 3
+  },
+  {
+    "id": 30,
+    "type": "listening",
+    "question": "You hear: 'It's on the tip of my tongue.' What does the speaker mean?",
+    "options": [
+      "They are eating something spicy.",
+      "They almost remember something but can't quite recall it.",
+      "They want to say something rude.",
+      "They are tasting food."
+    ],
+    "correct": "They almost remember something but can't quite recall it.",
+    "points": 3
+  },
+  {
+    "id": 31,
+    "type": "grammar",
+    "question": "Had she studied harder, she ___ the exam.",
+    "options": [
+      "would pass",
+      "would have passed",
+      "will pass",
+      "passed"
+    ],
+    "correct": "would have passed",
+    "points": 4
+  },
+  {
+    "id": 32,
+    "type": "grammar",
+    "question": "The findings of the study ___ further investigation.",
+    "options": [
+      "warrant",
+      "warrants",
+      "warranted",
+      "warranting"
+    ],
+    "correct": "warrant",
+    "points": 4
+  },
+  {
+    "id": 33,
+    "type": "reading",
+    "question": "Read: 'The proliferation of social media has fundamentally altered the way people communicate.' What does 'proliferation' mean?",
+    "options": [
+      "Decline",
+      "Rapid spread",
+      "Regulation",
+      "Improvement"
+    ],
+    "correct": "Rapid spread",
+    "points": 4
+  },
+  {
+    "id": 34,
+    "type": "writing",
+    "question": "Choose the most formal way to express disagreement:",
+    "options": [
+      "That's totally wrong!",
+      "I don't think so.",
+      "I would respectfully disagree with that point.",
+      "No way!"
+    ],
+    "correct": "I would respectfully disagree with that point.",
+    "points": 4
+  },
+  {
+    "id": 35,
+    "type": "listening",
+    "question": "You hear: 'We need to think outside the box on this one.' What does the speaker suggest?",
+    "options": [
+      "They need a bigger box.",
+      "They need creative and unconventional thinking.",
+      "They should look outside the window.",
+      "They need to organize boxes."
+    ],
+    "correct": "They need creative and unconventional thinking.",
+    "points": 4
+  },
+  {
+    "id": 36,
+    "type": "grammar",
+    "question": "Not only ___ late, but he also forgot his report.",
+    "options": [
+      "he was",
+      "was he",
+      "he is",
+      "is he"
+    ],
+    "correct": "was he",
+    "points": 4
+  },
+  {
+    "id": 37,
+    "type": "grammar",
+    "question": "She ___ have told me earlier — I could have helped.",
+    "options": [
+      "must",
+      "should",
+      "would",
+      "shall"
+    ],
+    "correct": "should",
+    "points": 4
+  },
+  {
+    "id": 38,
+    "type": "reading",
+    "question": "Read: 'The author's tone throughout the essay is largely sardonic.' What does 'sardonic' mean?",
+    "options": [
+      "Optimistic and cheerful",
+      "Grimly mocking or cynical",
+      "Confused and unclear",
+      "Formal and academic"
+    ],
+    "correct": "Grimly mocking or cynical",
+    "points": 4
+  },
+  {
+    "id": 39,
+    "type": "writing",
+    "question": "Which sentence uses a relative clause correctly?",
+    "options": [
+      "The book which I told you it is on the shelf.",
+      "The book which I told you about is on the shelf.",
+      "The book that I told you is it on the shelf.",
+      "The book whom I told you about is on the shelf."
+    ],
+    "correct": "The book which I told you about is on the shelf.",
+    "points": 4
+  },
+  {
+    "id": 40,
+    "type": "listening",
+    "question": "You hear: 'The project is behind the eight ball.' What is the speaker saying?",
+    "options": [
+      "The project is going well.",
+      "The project is in a difficult position.",
+      "The project is ahead of schedule.",
+      "The project involves a ball."
+    ],
+    "correct": "The project is in a difficult position.",
+    "points": 4
+  },
+  {
+    "id": 41,
+    "type": "grammar",
+    "question": "The committee insisted that the report ___ submitted by Friday.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "being"
+    ],
+    "correct": "be",
+    "points": 5
+  },
+  {
+    "id": 42,
+    "type": "grammar",
+    "question": "Scarcely ___ sat down when the phone rang.",
+    "options": [
+      "I had",
+      "had I",
+      "I have",
+      "have I"
+    ],
+    "correct": "had I",
+    "points": 5
+  },
+  {
+    "id": 43,
+    "type": "reading",
+    "question": "Read: 'The legislation was met with vociferous opposition from civil liberties groups.' What does 'vociferous' mean?",
+    "options": [
+      "Quiet and reserved",
+      "Loud and forceful",
+      "Organized and systematic",
+      "Polite and diplomatic"
+    ],
+    "correct": "Loud and forceful",
+    "points": 5
+  },
+  {
+    "id": 44,
+    "type": "writing",
+    "question": "Which sentence is stylistically most appropriate for an academic essay?",
+    "options": [
+      "This study looks at how climate change messes up ecosystems.",
+      "This study examines the impact of climate change on ecosystems.",
+      "This study is about climate change and stuff like that.",
+      "Climate change is really bad for ecosystems, this study says."
+    ],
+    "correct": "This study examines the impact of climate change on ecosystems.",
+    "points": 5
+  },
+  {
+    "id": 45,
+    "type": "listening",
+    "question": "You hear: 'His argument was a double-edged sword.' What does this mean?",
+    "options": [
+      "His argument was very sharp and clear.",
+      "His argument had both advantages and disadvantages.",
+      "His argument was about weapons.",
+      "His argument was completely wrong."
+    ],
+    "correct": "His argument had both advantages and disadvantages.",
+    "points": 5
+  },
+  {
+    "id": 46,
+    "type": "grammar",
+    "question": "It is high time the government ___ action on climate change.",
+    "options": [
+      "takes",
+      "took",
+      "take",
+      "has taken"
+    ],
+    "correct": "took",
+    "points": 5
+  },
+  {
+    "id": 47,
+    "type": "grammar",
+    "question": "The new policy will have far-reaching ___ for the economy.",
+    "options": [
+      "implications",
+      "implication",
+      "implying",
+      "imply"
+    ],
+    "correct": "implications",
+    "points": 5
+  },
+  {
+    "id": 48,
+    "type": "reading",
+    "question": "Read: 'The philosopher's seminal work challenged the prevailing epistemological framework.' What does 'epistemological' relate to?",
+    "options": [
+      "The study of the origin of words",
+      "The theory of knowledge and its scope",
+      "The study of ecosystems",
+      "The practice of medicine"
+    ],
+    "correct": "The theory of knowledge and its scope",
+    "points": 5
+  },
+  {
+    "id": 49,
+    "type": "writing",
+    "question": "Which option best completes the sentence: 'The results of the experiment were ___; they contradicted all existing theories.'",
+    "options": [
+      "mundane",
+      "predictable",
+      "unprecedented",
+      "irrelevant"
+    ],
+    "correct": "unprecedented",
+    "points": 5
+  },
+  {
+    "id": 50,
+    "type": "listening",
+    "question": "You hear: 'We're skating on thin ice with this decision.' What does the speaker imply?",
+    "options": [
+      "They enjoy ice skating.",
+      "The situation is risky and could go wrong.",
+      "The decision has been well thought out.",
+      "They are confident about the outcome."
+    ],
+    "correct": "The situation is risky and could go wrong.",
+    "points": 5
+  },
+  {
+    "id": 51,
+    "type": "grammar",
+    "question": "Choose the sentence with correct subjunctive mood:",
+    "options": [
+      "The judge demanded that the witness tells the truth.",
+      "The judge demanded that the witness told the truth.",
+      "The judge demanded that the witness tell the truth.",
+      "The judge demanded that the witness is telling the truth."
+    ],
+    "correct": "The judge demanded that the witness tell the truth.",
+    "points": 6
+  },
+  {
+    "id": 52,
+    "type": "grammar",
+    "question": "Which sentence demonstrates correct use of a nominative absolute?",
+    "options": [
+      "The storm having passed, we continued our journey.",
+      "Having passed the storm, our journey continued.",
+      "The storm has passed, we continued our journey.",
+      "Passed the storm, the journey continued."
+    ],
+    "correct": "The storm having passed, we continued our journey.",
+    "points": 6
+  },
+  {
+    "id": 53,
+    "type": "reading",
+    "question": "Read: 'His prose is characterized by a pellucid clarity that belies the complexity of his subject matter.' What does 'pellucid' mean?",
+    "options": [
+      "Obscure and difficult",
+      "Translucently clear",
+      "Overly verbose",
+      "Emotionally charged"
+    ],
+    "correct": "Translucently clear",
+    "points": 6
+  },
+  {
+    "id": 54,
+    "type": "writing",
+    "question": "Which sentence uses a participle clause correctly?",
+    "options": [
+      "Walking down the street, the rain started suddenly.",
+      "Walking down the street, she noticed the rain had started.",
+      "She was walking down the street, the rain started.",
+      "While she walking, the rain started suddenly."
+    ],
+    "correct": "Walking down the street, she noticed the rain had started.",
+    "points": 6
+  },
+  {
+    "id": 55,
+    "type": "listening",
+    "question": "You hear: 'His speech was a tour de force.' What does this mean?",
+    "options": [
+      "His speech was very long.",
+      "His speech was an impressive achievement.",
+      "His speech was confusing.",
+      "His speech was about travel."
+    ],
+    "correct": "His speech was an impressive achievement.",
+    "points": 6
+  },
+  {
+    "id": 56,
+    "type": "grammar",
+    "question": "Which sentence correctly uses an elliptical construction?",
+    "options": [
+      "She speaks French better than he speaks French.",
+      "She speaks French better than he does.",
+      "She speaks French better than him speaks.",
+      "She speaks French better than he speaking."
+    ],
+    "correct": "She speaks French better than he does.",
+    "points": 6
+  },
+  {
+    "id": 57,
+    "type": "reading",
+    "question": "Read: 'The author employs a stream of consciousness technique to render the protagonist's psychological turmoil.' What does 'stream of consciousness' refer to?",
+    "options": [
+      "A technique that describes events in strict chronological order.",
+      "A narrative technique depicting the continuous flow of thoughts and feelings.",
+      "A scientific description of brain activity.",
+      "A technique used only in poetry."
+    ],
+    "correct": "A narrative technique depicting the continuous flow of thoughts and feelings.",
+    "points": 6
+  },
+  {
+    "id": 58,
+    "type": "writing",
+    "question": "Which is the most rhetorically effective opening for a persuasive essay?",
+    "options": [
+      "In this essay I will talk about why climate change is important.",
+      "Climate change is a very big problem for everyone.",
+      "As the glaciers recede and the oceans rise, humanity stands at the precipice of an irreversible ecological crisis.",
+      "Scientists say climate change is bad and we should do something."
+    ],
+    "correct": "As the glaciers recede and the oceans rise, humanity stands at the precipice of an irreversible ecological crisis.",
+    "points": 6
+  },
+  {
+    "id": 59,
+    "type": "listening",
+    "question": "You hear: 'The minister's statement was conspicuous by its absence of any concrete policy commitments.' What does this mean?",
+    "options": [
+      "The minister spoke clearly about policies.",
+      "The notable thing was what the minister did NOT say.",
+      "The minister was absent from the meeting.",
+      "The minister's statement was very long."
+    ],
+    "correct": "The notable thing was what the minister did NOT say.",
+    "points": 6
+  },
+  {
+    "id": 60,
+    "type": "grammar",
+    "question": "Choose the sentence that correctly uses inversion for emphasis:",
+    "options": [
+      "Never I have seen such dedication.",
+      "Never have I seen such dedication.",
+      "I have never seen such dedication, never.",
+      "Such dedication never I have seen."
+    ],
+    "correct": "Never have I seen such dedication.",
+    "points": 6
+  },
+  {
+    "id": 61,
+    "type": "",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correct": "",
+    "points": 0
+  }
+]

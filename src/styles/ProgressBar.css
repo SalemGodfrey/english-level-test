@@ -1,0 +1,51 @@
+.progress-bar {
+  background-color: rgb(236, 236, 236);
+  display: flex;
+  border-radius: 100px;
+  justify-content: space-between;
+  height: 25px;
+  align-items: center;
+  width: 100%;
+  padding-left: 12px;
+}
+
+.progress-bar__number {
+  border: #0f71de 3px solid;
+  border-radius: 100%;
+  width: fit-content;
+  padding: 0 7px;
+  font-weight: bolder;
+  color: #0f71de;
+  background-color: rgb(255, 255, 255);
+}
+
+.progress-bar__between {
+  width: 100%;
+}
+
+.progress-bar__step1 {
+  width: 100%;
+  height: 15px;
+}
+.progress-bar__step2 {
+  width: 100%;
+  height: 15px;
+}
+.progress-bar__step3 {
+  width: 100%;
+  height: 15px;
+}
+.progress-bar__step4 {
+  width: 100%;
+  height: 15px;
+}
+.progress-bar__step5 {
+  width: 100%;
+  height: 15px;
+}
+
+/* .active должен быть последним */
+.active {
+  background-color: #0e6fe0 !important;
+}
+

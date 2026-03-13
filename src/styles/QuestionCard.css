@@ -1,0 +1,72 @@
+.card {
+  background-color: white;
+  padding: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.178) 0 0 6px;
+  border-radius: 10px;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  gap: 6px;
+}
+
+.card-grid__element1 {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.card-grid__element2 {
+  grid-area: 2 / 1 / 3 / 2;
+}
+.card-grid__element3 {
+  grid-area: 2 / 2 / 3 / 3;
+}
+.card-grid__element4 {
+  grid-area: 1 / 2 / 2 / 3;
+}
+
+.card-grid__button {
+  font-family: "Raleway", sans-serif;
+  width: 100%;
+  padding: 5px;
+  font-size: 15px;
+  border-radius: 100px;
+  outline: 0;
+  border: 1.5px #c9c9c9 solid;
+  background-color: white;
+  transition: ease-in-out 0.4s;
+  font-family: 600;
+  cursor: pointer;
+  height: 100%;
+}
+
+.card-grid__button::first-letter {
+  text-transform: capitalize;
+}
+
+.card-grid__button:hover {
+  transform: scale(1.05);
+  border-color: #285687;
+  box-shadow:
+    #0471e69d 0 0 5px,
+    -5px 5px 10px #00000022;
+}
+
+.card-grid__button:focus {
+  transform: scale(1.05);
+  border-color: #285687;
+  box-shadow:
+    #0471e69d 0 0 5px,
+    -5px 5px 10px #00000022;
+    background-color: #9ccbfd;
+}
+
+.card-grid__button.selected {
+  background-color: #9ccbfd;
+}
+
+.QuestionCard {
+  padding: 0 10px;
+}

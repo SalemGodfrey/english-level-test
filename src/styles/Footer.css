@@ -1,0 +1,30 @@
+.footer {
+  background-color: white;
+  padding: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.178) 0 0 6px;
+}
+
+.footer-button-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-button {
+  padding: 6px 15px;
+  border-radius: 100px;
+  color: white;
+  font-family: "PT Sans", sans-serif;
+  text-transform: uppercase;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.finish {
+  background-color: #902b2f;
+}
+
+.next {
+  background-color: #0870e1;
+}
